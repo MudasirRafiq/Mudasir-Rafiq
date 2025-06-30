@@ -5,6 +5,12 @@
 - **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib
 - **Highlights**: EDA, feature binning, hyperparameter tuning, classification metrics
 
+### 💳 [Credit Card Fraud Detection](https://github.com/MudasirRafiq/credit-card-fraud-detection)
+- Detect fraudulent transactions in highly imbalanced data
+- **Tech Stack**: Python, Pandas, Scikit-learn, SMOTE
+- **Highlights**: EDA, class imbalance handling, model evaluation with precision-recall
+
+  
 ### 🎗️ Breast Cancer Detection
 - Classify tumors as malignant or benign using ML algorithms
 - **Tech Stack**: Scikit-learn, Pandas, Matplotlib
@@ -23,10 +29,6 @@
   - Undersampling to fix class imbalance
   - Ensemble (VotingClassifier) with hyperparameter tuning
   - Evaluation using confusion matrix, F1-score, and more
-
-### 📉 Credit Score Classification
-- Classify customer credit scores using advanced ML techniques
-- **Tech Stack**: Python, Scikit-learn, XGBoost, Plotly
 - **Highlights**:
   - Full data pipeline: EDA, preprocessing, encoding, normalization
   - Model comparison: Random Forest vs XGBoost
