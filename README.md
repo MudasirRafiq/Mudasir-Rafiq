@@ -1,6 +1,6 @@
 ## 📊 Featured Data Science Projects
 
-### 💧 Water Potability Prediction
+### 💧 [Water Potability Prediction](https://github.com/yourusername/water-potability-prediction)
 - Predict whether water is safe for drinking using SVM and Random Forest
 - **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib
 - **Highlights**: EDA, feature binning, hyperparameter tuning, classification metrics
