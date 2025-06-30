@@ -18,6 +18,12 @@
   - Model comparison: Random Forest vs XGBoost
   - Visuals via Plotly, Matplotlib, Seaborn
   - Clean, well-commented codebase
+ 
+  - ### 🤖 [AI Chatbot using NLP](https://github.com/MudasirRafiq/chatbot)
+- A conversational chatbot built with Python and NLP techniques
+- **Tech Stack**: Python, NLTK/spaCy, JSON, Regex, Flask (optional)
+- **Highlights**: Intent classification, fallback handling, modular architecture
+
 
 ### 🎗️ Breast Cancer Detection
 - Classify tumors as malignant or benign using ML algorithms
